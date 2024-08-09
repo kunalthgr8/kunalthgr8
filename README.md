@@ -3,15 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalthgr8&label=Profile%20views&color=0e75b6&style=flat" alt="kunalthgr8" /> </p>
 
-- 🔭 I’m currently working on [TA Managmnet System](https://github.com/kunalthgr8/TA-Backend)
-
-- 🌱 I’m currently learning **Backend Development**
-
-- 👨‍💻 All of my projects are available at [https://portfolio-kunal-rho.vercel.app/](https://portfolio-kunal-rho.vercel.app/)
-
-- 📫 How to reach me **kunalsingla@iitbhilai.ac.in**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Lm09m2x8LaC7uIUhauhjzGjjwCUsu3vV/view?usp=drive_link](https://drive.google.com/file/d/1Lm09m2x8LaC7uIUhauhjzGjjwCUsu3vV/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
