@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kunal Singla</h1>
-<h3 align="center">Passionate third-year student at IIT Bhilai | Web development enthusiast proficient in React.js, Express.js | Skilled in Java, MongoDB, Node.js | Experienced in ML</h3>
+<h3 align="center">Passionate Final year student at IIT Bhilai | Web development enthusiast proficient in React.js, Express.js | Skilled in Java, MongoDB, Node.js | Experienced in ML</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalthgr8&label=Profile%20views&color=0e75b6&style=flat" alt="kunalthgr8" /> </p>
 
